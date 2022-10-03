@@ -5,11 +5,11 @@ date:   2022-10-03 07:31:44 +0800
 categories: jekyll update
 ---
 
-Welcome! This is the blog post site of thexword.
+欢迎！ 这里是thexword 的博客文章站点。
 
-You can find me at GitHub: [thexword](https://github.com/thexword)
+你可以在 GitHub 上找到我：[thexword](https://github.com/thexword)
 
-Or contact me via Email: `thexwordchs@gmail.com`
+或通过电子邮件与我联系：`thexwordchs@gmail.com`
 
 
 <!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
