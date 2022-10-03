@@ -6,7 +6,7 @@ permalink: /about/
 
 联系方式：
 
-Github: [thexword](https://github.com/thexword)
+GitHub: [thexword](https://github.com/thexword)
 
 Email: `thexwordchs@gmail.com`
 
