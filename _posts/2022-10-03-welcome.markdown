@@ -7,7 +7,7 @@ categories: jekyll update
 
 欢迎！ 这里是 thexword 的博客文章站点。
 
-你可以在 GitHub 上找到我：[thexword](https://github.com/thexword)
+您可以在 GitHub 上找到我：[thexword](https://github.com/thexword)
 
 或通过电子邮件与我联系：`thexwordchs@gmail.com`
 
