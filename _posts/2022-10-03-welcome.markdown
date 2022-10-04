@@ -2,7 +2,7 @@
 layout: post
 title:  "欢迎访问 thexword‘s 个人主页"
 date:   2022-10-03 07:31:44 +0800
-categories: jekyll update
+categories: jekyll
 ---
 
 欢迎！ 这里是 thexword 的博客文章站点。
