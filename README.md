@@ -1,2 +1,2 @@
 # thexword.github.io
-thexword‘s 个人技术博客站点仓库
+thexword‘s 个人博客站点仓库

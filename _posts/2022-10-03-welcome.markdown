@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "欢迎访问 thexword‘s 个人技术博客站点"
+title:  "欢迎访问 thexword‘s 个人博客站点"
 date:   2022-10-03 07:31:44 +0800
 categories: jekyll
 ---
