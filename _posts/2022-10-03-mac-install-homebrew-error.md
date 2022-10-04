@@ -2,7 +2,7 @@
 layout: post
 title: "mac 安装homebrew出错: Failed to connect to raw.githubusercontent.com port 443: Connection refused error 解决办法"
 date: 2022-10-03 08:37:14 +0800
-categories: jekyll update
+categories: jekyll
 ---
 
 解决办法：通过修改hosts解决此问题。 

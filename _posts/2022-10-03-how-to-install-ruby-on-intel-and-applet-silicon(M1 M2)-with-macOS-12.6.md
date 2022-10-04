@@ -2,7 +2,7 @@
 layout: post
 title: "How to Install Ruby on Intel and Apple Silicon (M1 M2) With macOS 12.6"
 date: 2022-10-03 09:02:00 +0800
-categories: jekyll update
+categories: jekyll
 ---
 
 参考文章：
